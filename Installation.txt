@@ -1,0 +1,4 @@
+Follow these steps to successfully run this project:
+- cd client
+- run "npm install"
+- run "npm run start"
